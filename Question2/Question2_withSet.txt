@@ -1,0 +1,3 @@
+s=list(map(int,input().strip().split(" ")))
+s1=set(s)
+print(s1)

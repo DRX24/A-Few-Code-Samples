@@ -1,0 +1,8 @@
+def add_digit(i):
+    a=0
+    for j in i:
+        a+=int(j)
+    return a
+s=input()
+c=add_digit(s)
+print(c)
