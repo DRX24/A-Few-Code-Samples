@@ -1,2 +1,4 @@
 # A-Few-Code-Samples:
- Some questions asked in interview
+ Some questions asked in interview;;
+	hi rik
+
